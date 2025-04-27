@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arrays_3_Reverse/1.0.0": {
+        "runtime": {
+          "Arrays_3_Reverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_3_Reverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

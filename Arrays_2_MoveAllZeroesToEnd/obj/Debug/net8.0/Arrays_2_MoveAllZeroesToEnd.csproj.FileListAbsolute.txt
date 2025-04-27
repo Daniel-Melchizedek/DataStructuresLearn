@@ -1,0 +1,14 @@
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\bin\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.exe
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\bin\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.deps.json
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\bin\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.runtimeconfig.json
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\bin\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\bin\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.pdb
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.AssemblyInfoInputs.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.AssemblyInfo.cs
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.csproj.CoreCompileInputs.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\refint\Arrays_2_MoveAllZeroesToEnd.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.pdb
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\Arrays_2_MoveAllZeroesToEnd.genruntimeconfig.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_2_MoveAllZeroesToEnd\obj\Debug\net8.0\ref\Arrays_2_MoveAllZeroesToEnd.dll

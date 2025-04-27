@@ -1,0 +1,14 @@
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\bin\Debug\net8.0\Arrays_1_SecondLargest_CS.exe
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\bin\Debug\net8.0\Arrays_1_SecondLargest_CS.deps.json
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\bin\Debug\net8.0\Arrays_1_SecondLargest_CS.runtimeconfig.json
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\bin\Debug\net8.0\Arrays_1_SecondLargest_CS.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\bin\Debug\net8.0\Arrays_1_SecondLargest_CS.pdb
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.AssemblyInfoInputs.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.AssemblyInfo.cs
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.csproj.CoreCompileInputs.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\refint\Arrays_1_SecondLargest_CS.dll
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.pdb
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\Arrays_1_SecondLargest_CS.genruntimeconfig.cache
+C:\Users\daniel.thomas.samuel\source\repos\GFG\Arrays_1_SecondLargest\obj\Debug\net8.0\ref\Arrays_1_SecondLargest_CS.dll
