@@ -32,3 +32,4 @@ project.fragment.lock.json
 # OS-specific files
 .DS_Store
 Thumbs.db
+/Arrays_04_Rotate/.vs/Arrays_04_Rotate
