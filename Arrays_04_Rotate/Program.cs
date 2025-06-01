@@ -97,7 +97,8 @@ namespace Arrays_04_Rotate
             }
 
         }
-
+        //Time Complexity:O(n)
+        //Space Complexity:O(1)
         static void RotateArray_ReverseAlgo(int[] arr, int d)
         {
             d%=arr.Length;
